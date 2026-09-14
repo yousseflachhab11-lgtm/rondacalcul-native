@@ -1,0 +1,12 @@
+{
+  "appId": "com.ronda.calcul",
+  "appName": "Rondacalcul",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#00000000"
+  }
+}
